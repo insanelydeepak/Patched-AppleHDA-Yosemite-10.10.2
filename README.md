@@ -71,3 +71,5 @@ Collection of Corrected or Patched AppleHDA for Mac OS X Yosemite Hackintosh's.
   1- [EAPD-Codec-Commander](https://github.com/Dolnor/EAPD-Codec-Commander) 
    
   2- [EAPD-FIX](http://forum.osxlatitude.com/index.php?/topic/3084-eapdjack-sense-fix-no-audiojack-sense-issue-after-sleep/)      
+
+The credit will go for all these people:  Mirone , Kabyl, TimeWalker75a, EMlyDinESH.
