@@ -72,4 +72,5 @@ Collection of Corrected or Patched AppleHDA for Mac OS X Yosemite Hackintosh's.
    
   2- [EAPD-FIX](http://forum.osxlatitude.com/index.php?/topic/3084-eapdjack-sense-fix-no-audiojack-sense-issue-after-sleep/)      
 
-The credit will go for all these people:  Mirone , Kabyl, TimeWalker75a, EMlyDinESH.
+####The credit will go for all these people:  
+ Mirone , Kabyl, TimeWalker75a, EMlyDinESH, Bcc9 and Others Who Contributed to Patching AppleHDA 
