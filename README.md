@@ -74,3 +74,9 @@ Collection of Corrected or Patched AppleHDA for Mac OS X Yosemite Hackintosh's.
 
 ####The credit will go for all these people:  
  Mirone , Kabyl, TimeWalker75a, EMlyDinESH, Bcc9 and Others Who Contributed to Patching AppleHDA 
+ 
+ ## Donation
+If this project help you reduce time to develop, you can give me a cup of coffee :) 
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](http://paypal.me/insanelydeepak)
+
